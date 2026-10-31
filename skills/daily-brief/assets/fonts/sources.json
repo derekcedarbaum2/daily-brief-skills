@@ -1,0 +1,27 @@
+[
+  {
+    "file": "SourceSerif4-Roman.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-serif/release/WOFF2/VAR/SourceSerif4Variable-Roman.ttf.woff2",
+    "sha256": "940a76eda1388de39d38c8e7a79bf6ea058a387faee0a9f33c8d25c6ba05e1be"
+  },
+  {
+    "file": "SourceSerif4-Italic.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-serif/release/WOFF2/VAR/SourceSerif4Variable-Italic.ttf.woff2",
+    "sha256": "9d28b5749a1ad096a295cb607c521bd1af4cd9979b6f37332daf70143149fb44"
+  },
+  {
+    "file": "SourceSans3-Upright.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-sans/release/WOFF2/VF/SourceSans3VF-Upright.ttf.woff2",
+    "sha256": "5f16566f7a40d39b339ad26be151fa5a1ab1f0c2574c7a2e619765584a1acbd8"
+  },
+  {
+    "file": "SourceSerif4-OFL.txt",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-serif/release/LICENSE.md",
+    "sha256": "c21d7293d87b6d7ab1d0229a2f55b77f33a7613a6a4e66f6693d68d7d8d09464"
+  },
+  {
+    "file": "SourceSans3-OFL.txt",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-sans/release/LICENSE.md",
+    "sha256": "56af9b9c6715597e458284a474dc118a50a4150e9d547c70f7b4a33c3e6a9328"
+  }
+]

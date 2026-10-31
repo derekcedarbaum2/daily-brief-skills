@@ -1,0 +1,186 @@
+{
+  "schema": "daily-brief/v1",
+  "example": true,
+  "run_id": "fictional-example-001",
+  "target_date": "2027-04-14",
+  "timezone": "Europe/London",
+  "prepared_at": "2027-04-13T19:30:00+01:00",
+  "status": "draft",
+  "source_warning": "Fictional example. All events, responsibilities, and source records are invented.",
+  "agenda": [
+    {
+      "start": "09:00",
+      "end": "10:15",
+      "title": "Finish the launch decision memo",
+      "status": "planned",
+      "main": true,
+      "detail": "Complete the recommendation and evidence gaps for the afternoon review.",
+      "calendar": {
+        "lane": "me",
+        "label": "Launch decision memo"
+      }
+    },
+    {
+      "start": "12:00",
+      "end": "12:45",
+      "title": "Lunch and a short walk",
+      "status": "planned",
+      "calendar": {
+        "lane": "me",
+        "label": "Lunch and walk"
+      }
+    },
+    {
+      "start": "13:00",
+      "end": "13:30",
+      "title": "Read the release checks",
+      "status": "planned",
+      "detail": "Confirm the latest quality results and note any missing evidence.",
+      "calendar": {
+        "lane": "me",
+        "label": "Review preparation"
+      }
+    },
+    {
+      "start": "14:00",
+      "end": "14:30",
+      "title": "Launch readiness review",
+      "status": "confirmed",
+      "detail": "Agree the pilot entry conditions. See the Launch review agenda sheet.",
+      "calendar": {
+        "lane": "me",
+        "label": "Launch review"
+      }
+    },
+    {
+      "start": "14:30",
+      "end": "15:00",
+      "title": "Record decisions and assign follow-ups",
+      "status": "suggested",
+      "detail": "Proposed buffer after the review; adjust to the actions agreed.",
+      "calendar": {
+        "lane": "me",
+        "label": "Review follow-ups"
+      }
+    },
+    {
+      "start": "16:45",
+      "end": "17:15",
+      "end_est": true,
+      "title": "Travel home for the care handoff",
+      "status": "planned",
+      "detail": "Allow 30 minutes plus a 15-minute buffer before the helper leaves.",
+      "calendar": {
+        "lane": "me",
+        "label": "Travel home"
+      }
+    },
+    {
+      "start": "17:15",
+      "end": "17:30",
+      "title": "Household handoff",
+      "status": "confirmed",
+      "who": "Household helper",
+      "detail": "You take over at home before the booked shift ends.",
+      "calendar": {
+        "lane": "family",
+        "label": "Care handoff"
+      }
+    }
+  ],
+  "decisions": [
+    {
+      "text": "Whether the pilot can proceed with the unresolved quality check.",
+      "by": "Resolve in the 2:00 pm review"
+    }
+  ],
+  "coming_up": [
+    {
+      "date": "2027-04-16",
+      "text": "Prepare the customer demonstration: confirm the attendee list and test the recording before Friday."
+    }
+  ],
+  "sheets": [
+    {
+      "title": "Launch review agenda",
+      "intro": "Wednesday 14 April, 2:00–2:30 pm. Product and engineering leads. Intended result: agree pilot entry conditions and next-action owners.",
+      "parts": [
+        {
+          "type": "list",
+          "heading": "Decisions to make",
+          "items": [
+            "Approve the pilot only if the agreed quality threshold is met.",
+            "Choose an owner and target date for any remaining check."
+          ]
+        },
+        {
+          "type": "table",
+          "heading": "Context for the discussion",
+          "cols": [
+            "Item",
+            "Current evidence",
+            "Question"
+          ],
+          "rows": [
+            [
+              "DEMO-14",
+              "Fictional quality check is still open.",
+              "What evidence is required to close it?"
+            ],
+            [
+              "DEMO-22",
+              "Fictional onboarding checklist is complete.",
+              "Does the pilot require another review?"
+            ]
+          ]
+        },
+        {
+          "type": "list",
+          "heading": "Proposed discussion order",
+          "items": [
+            "Confirm the intended pilot outcome and decision criteria.",
+            "Review the open check and its effect on the pilot.",
+            "Record the decision, action owners, and dates agreed."
+          ]
+        },
+        {
+          "type": "list",
+          "heading": "Preparation",
+          "items": [
+            "Bring the decision memo and latest quality results.",
+            "If the results are missing, request them and keep the recommendation provisional."
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcard": {
+    "lines": [
+      "Finish the launch decision memo",
+      "Resolve the pilot entry conditions",
+      "Be home for the care handoff"
+    ],
+    "morning": [
+      "Review the planned outcomes.",
+      "Name the main obstacle and your response."
+    ],
+    "evening": [
+      "What finished or moved?",
+      "What helped or distracted you?",
+      "Choose one change for the next day."
+    ]
+  },
+  "record": {
+    "sources": [
+      {
+        "name": "Fictional planning scenario",
+        "state": "ok",
+        "detail": "Every event, issue, and responsibility is invented for this example. No accounts were accessed."
+      }
+    ],
+    "estimates": [
+      "The 30-minute home journey is an invented estimate with a separate 15-minute buffer.",
+      "The follow-up block is proposed and depends on the review decisions."
+    ]
+  }
+}

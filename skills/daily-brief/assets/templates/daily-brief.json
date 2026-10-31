@@ -1,0 +1,29 @@
+{
+  "schema": "daily-brief/v1",
+  "run_id": "",
+  "target_date": "",
+  "timezone": "",
+  "status": "draft",
+  "source_warning": "",
+  "agenda": [],
+  "decisions": [],
+  "coming_up": [],
+  "calendar_notes": [],
+  "sheets": [],
+  "flashcard": {
+    "lines": [],
+    "morning": [
+      "Review the planned outcomes and picture completion.",
+      "Name the main obstacle and your response."
+    ],
+    "evening": [
+      "What finished, progressed, or moved?",
+      "What distracted you, and what helped?",
+      "Choose one adjustment for the next day."
+    ]
+  },
+  "record": {
+    "sources": [],
+    "estimates": []
+  }
+}

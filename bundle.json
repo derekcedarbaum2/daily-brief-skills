@@ -1,0 +1,9 @@
+{
+  "name": "daily-brief-skills",
+  "version": "1.0.0",
+  "skills": [
+    "daily-brief",
+    "daily-brief-setup"
+  ],
+  "private_data_included": false
+}

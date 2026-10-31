@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "sources": [],
+  "entry_template": {
+    "id": "",
+    "product": "",
+    "roles": [],
+    "account_alias": "",
+    "workspace": "",
+    "permitted_scopes": [],
+    "source_of_truth_for": [],
+    "permission": "read_only",
+    "access_status": "unverified",
+    "runtime": "",
+    "verified_operation": "",
+    "checked_at": null,
+    "identity_evidence": "",
+    "manual_fallback": ""
+  }
+}
