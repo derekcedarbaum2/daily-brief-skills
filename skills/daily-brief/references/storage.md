@@ -41,3 +41,9 @@ Use stable source IDs or UUIDs for records, and preserve earlier snapshots in ba
 Each run records target date, timezone, status, reference hash, source gaps, priorities, timeblocks, dependencies, meeting agendas, lookahead, and report paths.
 Track interview completion separately from report certainty: an interview can finish with a draft report.
 Keep source exports and credential files out of all shared examples and releases.
+
+## Interview history
+
+Use `scripts/memory.py` for append-only questions, answers, decisions, and linked task updates.
+Read [interview-memory.md](interview-memory.md) for migration, invocation counting, and twentieth-run reviews.
+Keep the complete history in the private database; never publish it with the package.

@@ -89,3 +89,9 @@ The ZIP contains only the files in `release-files.json`. The audit checks those 
 Create a GitHub repository, then upload the clean package or push this repository. Your chosen GitHub account will identify the publisher. Keep personal state outside that repository.
 
 Code and original documentation are MIT licensed. Bundled fonts retain their separate licenses. See [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+### Interview history and daily preparation
+
+The private database keeps questions, answers, decisions, and task history. Each twentieth planning interview reviews that history for useful changes to the questions and brief. Resuming an interview or revising a report does not advance the counter. Older structured records retain their original wording and are labeled as historical records.
+
+Each daily interview checks meals and preparation for existing supplements. Confirmed routines reduce repeat questions. Weekly menu design remains optional. The skill uses the model selected in your host app; it does not change that setting.

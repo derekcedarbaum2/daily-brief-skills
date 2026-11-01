@@ -30,11 +30,15 @@
   "skills/daily-brief/assets/templates/reference.md",
   "skills/daily-brief/assets/templates/setup.json",
   "skills/daily-brief/assets/templates/tools.json",
+  "skills/daily-brief/references/daily-preparation.md",
+  "skills/daily-brief/references/interview-memory.md",
   "skills/daily-brief/references/meeting-agendas.md",
   "skills/daily-brief/references/report-spec.md",
   "skills/daily-brief/references/sources.md",
   "skills/daily-brief/references/storage.md",
+  "skills/daily-brief/scripts/memory.py",
   "skills/daily-brief/scripts/render_briefing.py",
   "skills/daily-brief/scripts/state.py",
+  "tests/test_memory.py",
   "tests/test_package.py"
 ]

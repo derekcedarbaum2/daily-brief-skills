@@ -37,3 +37,11 @@ A response may answer several areas at once.
 Record the answered areas and choose the next question from the remaining gaps.
 Do not ask about children's schools when dependent care is not applicable.
 Do not collect health diagnoses, account credentials, or exact locations merely to fill a template.
+
+## Daily preparation preferences
+
+Ask for recurring meals, food preferences, preparation owners, and shopping constraints.
+Ask whether existing supplements need packing or setting out for the user or household.
+Do not suggest a regimen or doses.
+Save confirmed defaults in the private reference.
+Explain that daily interviews check meals and supplement preparation even when weekly menu design is deferred.

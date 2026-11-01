@@ -101,6 +101,14 @@ Use roles or aliases when full names are unnecessary.
 - Shopping, thawing, packing, and storage constraints: unknown
 - Weekly menu planning: unknown
 
+## Existing supplement preparation
+
+- Existing regimen details the user chooses to record: unknown
+- Household members with preparation needs: unknown
+- Packing or setting-out instructions: unknown
+- Preparation owners and timing: unknown
+- Last confirmation and review date: unknown
+
 ## Travel and advance preparation
 
 - Typical lead times and preparation needs: unknown
