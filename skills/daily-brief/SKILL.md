@@ -38,6 +38,17 @@ Capture work needed beforehand, including ingredients, preparation owners, and a
 Use confirmed defaults; do not repeat questions already answered in this interview.
 Record a current refusal and continue, then revisit at the next interview.
 
+## Daily reading
+
+Ask what the user plans to read for leisure or business on the target day.
+Use confirmed reading preferences and skip the question when the rundown already answers it.
+Record selected titles or links, purpose, estimated reading time, and a feasible reading window.
+If titles are undecided, preserve the reading goal and ask for a duration budget before placing the block.
+Offer one block or shorter sessions that fit the day; count reading against available capacity.
+Keep uncertain placements proposed and resolve conflicts with other priorities.
+Record a daily decline without blocking the brief; do not remove the recurring question through inferred disinterest.
+Review actual reading completion at the next interview without assuming that scheduled reading occurred.
+
 ## Retrieve before asking
 
 Read [sources.md](references/sources.md).
@@ -137,7 +148,7 @@ Keep the calendar on a separate page and include supporting sheets only when use
 Use the same facts in the print and phone editions.
 Put the main outcomes and morning/evening prompts on a separate flashcard.
 Mark estimates, proposals, missing context, and unresolved handoffs in plain language.
-Stop interviewing when the day is workable and the daily meals and supplement checks are answered or declined.
+Stop interviewing when the day is workable and the daily meals, supplement, and reading checks are answered or declined.
 If the user asks to finalize earlier, preserve the missing checks as visible gaps.
 Produce a draft when missing information could change the plan.
 Do not add a general approval step before generating the requested report.

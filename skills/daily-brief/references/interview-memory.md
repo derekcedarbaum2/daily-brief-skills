@@ -59,7 +59,7 @@ Identify repeated fact requests, low-value questions, abandoned optional topics,
 Distinguish explicit rejection from unanswered questions, interrupted interviews, and missing evidence.
 Prefer changes that reduce interview turns while preserving feasible plans and useful meeting preparation.
 Keep an optional topic when its rare use prevents a material missed deadline or handoff.
-Do not remove daily meals and supplement checks, source-gap labels, or authorization boundaries through inferred disinterest.
+Do not remove daily meals, supplement, or reading checks, source-gap labels, or authorization boundaries through inferred disinterest.
 Apply up to three supported changes to question wording, order, conditional triggers, or report instructions.
 Keep personal learned preferences in the private reference or patterns collection.
 Do not copy user history into a shared skill, test fixture, or public release.

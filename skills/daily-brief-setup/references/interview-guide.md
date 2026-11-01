@@ -45,3 +45,9 @@ Ask whether existing supplements need packing or setting out for the user or hou
 Do not suggest a regimen or doses.
 Save confirmed defaults in the private reference.
 Explain that daily interviews check meals and supplement preparation even when weekly menu design is deferred.
+
+## Reading preferences
+
+Ask about leisure and business reading, preferred sources, and the desired daily target.
+Record typical reading duration and preferred windows when known.
+Keep titles and personal reading queues in the private reference.

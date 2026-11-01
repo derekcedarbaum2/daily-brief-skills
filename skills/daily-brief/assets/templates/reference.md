@@ -124,6 +124,14 @@ Use roles or aliases when full names are unnecessary.
 - Feasible windows and constraints: unknown
 - Topics the user wants left out: unknown
 
+## Reading preferences
+
+- Leisure and business reading interests: unknown
+- Preferred reading sources or saved queues: unknown
+- Desired daily reading target: unknown
+- Typical reading time and preferred windows: unknown
+- Selection preferences and current reading list: unknown
+
 ## Tools and permissions
 
 Keep account aliases, source-of-truth roles, permitted scopes, access checks, and manual fallbacks in tools.json.
