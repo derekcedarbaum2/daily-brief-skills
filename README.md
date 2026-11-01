@@ -42,6 +42,8 @@ The assistant retrieves relevant permitted information before asking for it. Una
 
 The interview reconciles fixed commitments, in-progress work, blocked tasks, requests from colleagues, side projects, and personal responsibilities. It asks one or two lookahead questions about preparation for the next few days and following week.
 
+When planning Sunday on Saturday, the skill checks what Monday requires and reserves Sunday time for preparation that cannot wait until the evening check-in. That can include supplies, work materials, care arrangements, or instructions for household help. The same lead-time check applies before other workweek start days.
+
 When the proposed day is too full, it recommends what to keep, defer, shorten, delegate, or renegotiate. It does not promise that another person will respond. Meeting sheets use available invitations, conversations, tickets, documents, and prior actions to prepare decisions and questions.
 
 The print design uses a white page, Source Serif 4 body text, Source Sans 3 headings and labels, thin rules, and a separate calendar page. It begins with the agenda and has no opening summary. A phone edition and separate outcome flashcard use the same facts.

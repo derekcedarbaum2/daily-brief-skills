@@ -55,6 +55,22 @@ Save progress after each substantive answer and resume with the same run ID.
 Finish with one or two questions about preparation needed over the next few days and following week.
 Use known trips, reviews, care changes, bookings, and promised responses as lookahead prompts.
 
+## Prepare Monday while planning Sunday
+
+When Saturday's interview plans Sunday, include preparation for Monday in Sunday's plan.
+The next evening check-in may be too late for shopping, preparation, or responses from others.
+Review Monday's commitments and early-week lead times during the lookahead questions.
+Use the private reference to identify relevant work, household, care, school, and travel preparation.
+Ask which preparations must finish before Sunday's evening check-in.
+Use the recorded check-in time, or ask when timing changes the plan.
+For each selected preparation, record the owner, duration, dependency, and completion deadline.
+Reserve feasible Sunday timeblocks before that deadline, including travel or shopping time where required.
+Keep unconfirmed times and assignments labeled as proposals.
+Count preparation against Sunday's capacity and resolve conflicts with the user.
+Use Sunday's interview to verify completion and handle changes.
+Do not repeat completed preparations or move an agreed Monday task to Sunday without a reason and the user's agreement.
+For other workweek patterns, apply the same lead-time check before the user's next working day.
+
 ## Prepare mentioned meetings
 
 Read [meeting-agendas.md](references/meeting-agendas.md).
