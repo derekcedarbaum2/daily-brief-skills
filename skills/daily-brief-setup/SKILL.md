@@ -51,6 +51,9 @@ Distinguish a routine correction from a one-day exception.
 
 Read `../daily-brief/references/sources.md` before interviewing about tools.
 Ask which products and accounts hold calendar, email, tasks, reminders, project work, documents, and chat.
+Ask whether the user wants optional morning practice or evening review reminders.
+Ask whether they want next-day calendar blocks created and which calendar should receive them.
+Record explicit calendar write authorization separately from read access.
 Include side-business and personal systems separately from employer systems.
 Identify the source of truth when the same work appears in multiple products.
 Ask which accounts, calendars, projects, repositories, channels, or folders the assistant may read.

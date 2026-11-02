@@ -20,7 +20,8 @@ Dated exceptions override these routines. Availability does not establish an ass
 - Private storage location: unknown
 - Evening planning window: unknown
 - Preferred outputs: unknown
-- Morning check and evening review preferences: unknown
+- Morning practice and evening review reminders: unknown
+- Calendar event creation preference and target calendar: unknown
 - Topics explicitly deferred: unknown
 
 ## Priorities and responsibilities

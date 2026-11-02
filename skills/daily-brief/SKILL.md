@@ -55,6 +55,13 @@ Read [sources.md](references/sources.md).
 Discover available tools and verify the account or workspace before reading a source.
 Check only sources and scopes the user permitted in the tool inventory.
 Read calendars through the end of the following week, then tasks and relevant messages or project records.
+Review the preceding 24 hours in every permitted connected email account.
+Use the actual scan time, follow all pages, and include read and unread messages.
+Inspect candidate messages and thread replies before recommending action.
+Separate replies, other actions, decisions, and optional notices; cite each source.
+Record the account, scan window, and any access failure.
+When the user dismisses specific messages, exclude them from this plan.
+Do not infer a permanent sender or category rule from one dismissal.
 Record source identity, scope, retrieval time, and any failure.
 Use a manual rundown when a source is unavailable.
 Request only a summary the user is permitted to share.
@@ -123,6 +130,28 @@ Time-box the day without filling every open period or inventing activities.
 Include the daily meals and supplement preparation check.
 Keep exercise and broader household projects within the user's selected scope.
 
+## Optional morning and evening routines
+
+Use only practices the user chose in their private reference.
+When requested, place a concise morning practice reminder near the top of the brief.
+Keep instructions and examples generic; never copy another user's practice or personal details.
+Include any user-selected evening review or debrief reminders near the end.
+Do not assign a time or run a separate skill unless the user requests it.
+
+## Optional calendar creation
+
+Create next-day time blocks only when the user authorizes calendar writes.
+Verify the selected writable account and calendar on each run.
+Do not substitute another account when the selected calendar is unavailable.
+Read the complete next-day calendar and compare existing events before creating blocks.
+Create only agreed blocks with known start and end times, and check known conflicts.
+Skip unconfirmed meetings, proposed blocks without agreement, and activities belonging only to others.
+Do not invite attendees, send messages, or modify existing events without separate authorization.
+Store calendar and event IDs with run and timeblock IDs in the private database.
+On retry, verify saved IDs and search before creating any replacement.
+Report created, existing, skipped, and conflicting blocks with reasons.
+If a connector is unavailable, provide a proposed event list without claiming calendar changes.
+
 ## Review and persist
 
 Ask what finished, progressed, or carried over from the previous day.
@@ -172,6 +201,7 @@ Do not describe an unrendered HTML fallback as a verified PDF.
 Use the host's available connectors, supported CLIs, or manual input.
 The tool inventory describes preferences; it does not install or grant access to integrations.
 Keep reads within the user's approved account and project scope.
-Drafting a plan does not authorize messages, invitations, task edits, purchases, or publication.
+Drafting a plan does not authorize calendar writes, messages, invitations, task edits, purchases, or publication.
+Follow the optional calendar workflow only after the user authorizes it.
 Create reminders or scheduled jobs only after the user requests them and the host confirms support.
 Never ask for passwords, tokens, or private keys in chat.

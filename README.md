@@ -97,3 +97,10 @@ The private database keeps questions, answers, decisions, and task history. Each
 Each daily interview checks meals and preparation for existing supplements. Confirmed routines reduce repeat questions. Weekly menu design remains optional. The skill uses the model selected in your host app; it does not change that setting.
 
 Daily interviews also ask about leisure or business reading and find a feasible reading window. Reading targets and sources come from the private reference.
+
+
+### Optional daily routines and calendar blocks
+
+During setup, choose any morning or evening reminders you want in your brief. The package does not assume a particular practice. It can also prepare next-day calendar blocks when you explicitly authorize writes and select a writable calendar. It checks for existing events and conflicts, skips uncertain blocks, and does not invite attendees or change existing events without separate permission.
+
+The interview reviews the previous 24 hours in each permitted connected email account, identifies possible replies and actions, and respects items you dismiss for the current plan.
